@@ -7,7 +7,7 @@
 |E-mail|MemoryShadow@outlook.com
 
 ****
-文章列表:
+文章列表(点击进度条查阅):
 
 * [![Progress](https://progress-bar.dev/45/?title=JavaEditio)](Java%20Edition "点击前往") 
 * [![Progress](https://progress-bar.dev/0/?title=BedrockEdition)](Bedrock%20Edition "点击前往")
